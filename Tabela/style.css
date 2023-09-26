@@ -1,0 +1,19 @@
+td,th {
+    color: aliceblue;
+    border: 1px solid aliceblue;
+    font-family:Roboto;
+    padding: 8px;
+    font-weight: 700;
+}
+.produtos1 {
+    background-color: #BB86FC;
+}
+.produtos2 {
+    background-color: #00C4B4;
+}
+table {
+    border-collapse: collapse;
+}
+td {
+    background-color: #424250;
+}
